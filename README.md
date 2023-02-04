@@ -1,2 +1,2 @@
 # devopslab-template
-Repositório Template para Importação do Laboratório DevOps & Cloud
+Aplicação simples em Flask/Python para o Laboratório DevOps & Cloud
